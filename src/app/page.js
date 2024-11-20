@@ -37,29 +37,4 @@ export default function Home() {
   );
 }
 
-const styles = {
-  container: {
-    positon: "center",
-    textAlign: "center",
-    fontFamily: "Arial, sans-serif",
-    marginTop: "50px",
-  },
-  button: {
-    backgroundColor: "#32C36C",
-    color: "#fff",
-    padding: "10px 20px",
-    border: "none",
-    borderRadius: "5px",
-    cursor: "pointer",
-    fontSize: "16px",
-  },
-  image: {
-    position: "center",
-    marginTop: "20px",
-    maxWidth: "400px",
-    height: "auto",
-    borderRadius: "10px",
-    boxShadow: "0 4px 8px rgba(0, 0, 0, 0.2)",
-  },
-};
 
