@@ -1,3 +1,5 @@
+"use client";
+
 import { useState } from "react";
 
 export default function Home() {
@@ -58,3 +60,4 @@ const styles = {
     boxShadow: "0 4px 8px rgba(0, 0, 0, 0.2)",
   },
 };
+
