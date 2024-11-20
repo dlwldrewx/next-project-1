@@ -39,6 +39,7 @@ export default function Home() {
 
 const styles = {
   container: {
+    positon: "center",
     textAlign: "center",
     fontFamily: "Arial, sans-serif",
     marginTop: "50px",
@@ -53,6 +54,7 @@ const styles = {
     fontSize: "16px",
   },
   image: {
+    position: "center",
     marginTop: "20px",
     maxWidth: "400px",
     height: "auto",
